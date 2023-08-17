@@ -1,4 +1,4 @@
-<h2>me chamam carinhosamente de Vini, sou dev. junior com interesse em cybersecurity 💻</h2>
+<h2>Me chamam carinhosamente de Vini, sou dev. junior com interesse em cybersecurity 💻</h2>
 
 <div align="center">
   <a href="https://github.com/viniciusjn">
