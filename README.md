@@ -1,5 +1,3 @@
-<h2>me chamam carinhosamente de Vini, sou dev. junior com interesse em cybersecurity 💻</h2>
-
 <div align="center">
   <a href="https://github.com/viniciusjn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusjn&theme=midnight-purple&show_icons=true"/>
