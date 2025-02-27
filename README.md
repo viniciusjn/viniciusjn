@@ -5,10 +5,9 @@
   
 </div>
 <div style="adding: 0 auto" align="center"><br>
-  <img align="center" alt="Js" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Next.js" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Next.js" height="30" width="40" href="#" src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-linux-icon-2048x2005-dki611fk.png">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" href="#">
+  <img align="center" alt="TypeScript" height="40" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Next.js" height="40" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="KaliLinux" height="40" width="40" href="#" src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-linux-icon-2048x2005-dki611fk.png">
 </div>
 <!-- //display: inline_block; -->
 <div> 
