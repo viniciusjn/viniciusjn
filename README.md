@@ -1,9 +1,11 @@
-## Fala pessoal, me chamo Vinícius!
-### Atualmente sou um dev. full-stack júnior no Brasil.
+# Fala pessoal, me chamo Vinícius!
+## Atualmente sou um dev. full-stack júnior no Brasil.
 
 - 🏢 Trabalho no setor tecnológico e de desenvolvimento da [Sem Fronteiras Motorhomes](https://www.sfmh.com.br).
 - ⚙️ Utilizo diaramente: `.js`, `.html`, `.css`
-- 🌱 Entusiasta aprendendo cada dia mais sobre **cibersegurança**
+- 🌱 Aprendendo cada dia mais sobre **cibersegurança**
+
+<br>
 
 <div align="center">
   <a href="https://github.com/viniciusjn">
