@@ -1,9 +1,9 @@
 # Fala pessoal, me chamo Vinícius!
 ## Atualmente sou um dev. full-stack júnior no Brasil.
 
-- 🏢 Trabalho no setor tecnológico e de desenvolvimento da [Sem Fronteiras Motorhomes](https://www.sfmh.com.br).
-- ⚙️ Utilizo diaramente: `.js`, `.html`, `.css`
-- 🌱 Aprendendo cada dia mais sobre **cibersegurança**
+- 🏢 Trabalho no setor tecnológico e de desenvolvimento da **[Sem Fronteiras Motorhomes](https://www.sfmh.com.br)**.
+- ⚙️ Utilizo diaramente: `.js`, `.html`, `.css` através do **[TypeScript](https://www.typescriptlang.org)** e **[Next.js](https://nextjs.org)**, além de alguns frameworks de HTML e CSS.
+- 🌱 Aprendendo cada dia mais sobre **cibersegurança** com o **[Kali Linux](https://www.kali.org).**
 
 <br>
 
