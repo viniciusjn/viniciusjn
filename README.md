@@ -20,6 +20,8 @@
   <img align="center" alt="KaliLinux" height="80" width="80" href="#" src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-linux-icon-2048x2005-dki611fk.png">
 </div>
 
+<br><br>
+
 <div> 
   <a href="https://www.linkedin.com/in/vinícius-pereira-024137249" target="_blank"><img src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin" target="_blank"></a> 
   <a href="https://www.instagram.com/vinicius_pereirasjn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram" target="_blank"></a>
