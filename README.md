@@ -17,7 +17,8 @@
 <div style="adding: 0 auto" align="center"><br>
   <img align="center" alt="TypeScript" height="80" width="80" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
   <img align="center" alt="Next.js" height="80" width="80" href="#" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="KaliLinux" height="80" width="80" href="#" src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-linux-icon-2048x2005-dki611fk.png">
+  <img align="center" alt="NestJS" height="80" width="80" href="#" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="KaliLinux" height="80" width="80" href="#" src="https://gitlab.com/uploads/-/system/project/avatar/41989905/kali-purple-icon1.png">
 </div>
 
 <br><br>
