@@ -2,7 +2,7 @@
 ## Atualmente sou um dev. full-stack júnior no Brasil.
 
 - 🏢 Trabalho no setor tecnológico e de desenvolvimento da **[Sem Fronteiras Motorhomes](https://www.sfmh.com.br)**.
-- ⚙️ Utilizo diaramente:  `.ts`, `.tsx`, `.html`, `.css` através do **[TypeScript](https://www.typescriptlang.org)**, **[Next.js](https://nextjs.org)** e **[NestJS](https://nestjs.com)**, além de HTML e CSS.
+- ⚙️ Utilizo diariamente:  `.ts`, `.tsx`, `.html`, `.css` através do **[TypeScript](https://www.typescriptlang.org)**, **[Next.js](https://nextjs.org)** e **[NestJS](https://nestjs.com)**, além de HTML e CSS.
 - 🌱 Aprendendo cada dia mais sobre **cibersegurança** com o **[Kali Linux](https://www.kali.org).**
 - 👨‍💻 Futuramente com objetivo de aprofundar os estudos em Java e C#.
 
